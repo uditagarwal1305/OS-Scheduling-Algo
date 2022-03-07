@@ -4,7 +4,7 @@
 # In[3]:
 
 
-#FCFS
+#Defining a First come first serve function
 def findWaitingTime(processes, n,bt, wt):
 
 
